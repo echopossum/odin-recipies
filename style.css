@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(51, 51, 51);
+    color: whitesmoke;
+}
+
+h1,h2,h3,p{
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: center;
+}
+
+.image{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
